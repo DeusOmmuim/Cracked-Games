@@ -1,2 +1,2 @@
 # Cracked-Games
-A bunch of games ripped and Recoded to be really easy  
+## [Nut simulator](https://unblocked-games-deployment.github.io/nutsimulator.github.io/index.html)
